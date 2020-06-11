@@ -61,4 +61,10 @@
     port = 4321;
     valency = 4;
   }
+  {
+    operator = "ispool.live";
+    addr = "95.217.190.205";
+    port = 6060;
+    valency = 1;
+  }
 ]
